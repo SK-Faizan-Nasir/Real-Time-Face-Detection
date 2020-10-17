@@ -1,2 +1,2 @@
 # Real-Time-Face-Detection
-Detects faces through webcam instantly.
+Detects faces through provided image instantly.
